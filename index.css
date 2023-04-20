@@ -51,7 +51,7 @@ h4{
         margin-top: 10px;
         text-align: center;
         margin-left: 20px;
-       height:550px
+     
        }
        .kural-count-tam{
         font-size: 20px;
@@ -74,14 +74,11 @@ h4{
         text-align: center;
        }
        .kural-title-tam{
-display:flex;
-justify-content: center;
 padding: 10px;
 font-size: 20px;
        }
        .kural-title-eng{
-        display:flex;
-        justify-content: center;
+       
         padding: 10px;
         font-size: 20px;
                }
@@ -128,5 +125,6 @@ font-size: 20px;
 .kural-meaning-eng{
     font-weight: bold;
     font-size: 20px;
-    margin-top:90px;
+    margin-top:30px;
+    padding:30px;
 }
